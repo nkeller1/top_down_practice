@@ -1,0 +1,18 @@
+Making a Campfire
+
+1. Choose Campsite
+ 1.1 Determine if fire pit exists
+ 1.2 Build fire pit
+2. Ignite Campfire
+  2.1 Strike Match and apply flame to paper
+    2.1.1 Remove match from match book
+    2.1.2 Quickly strike match to rough surface on matchbook to create flame
+  2.2 Gather wood and place in fire pit
+    2.2.1 Collect kindeling
+      2.2.1.1 collect branches
+      2.2.1.2 collect twigs
+      2.2.1.3 collect dried grass
+    2.2.2 Collect large logs of wood for longer burns
+      2.3.1 Split large logs into smaller pieces with axe
+      2.3.2 Collect split wood into a pile by firepit
+3. Feed fire to make flame last 
